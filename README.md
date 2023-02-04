@@ -1,5 +1,5 @@
 # Elixir-Hosting
-Free Easy Port forwarding minecraft servers.
+Free Easy Port forwarding Minecraft Servers.
 
 
 ### ELIXIR IS NOT PUBLICLY RELEASED YET! ###
